@@ -1,0 +1,4 @@
+pythontextnow>=1.1.0
+random-user-agent>=1.0.1
+bcrypt
+
